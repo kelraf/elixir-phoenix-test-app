@@ -1,0 +1,23 @@
+<div class="container"> 
+    <div class="row">
+        <div class="col-md-3">
+            <h2>Rooms:</h2> 
+            <ul>
+                <li>General</li>
+            </ul>
+        </div>
+        <div class="col-md-9">
+            <div class="jumbotron"> 
+                <div class="page-header">
+                    <h2>Welcome To Chat App</h2>
+                </div>
+                <div class="page-header">
+                    <h2>
+                        <small>Choose Room or make one</small>
+                        <a href="" class="btn btn-infor">Create</a>
+                    </h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
